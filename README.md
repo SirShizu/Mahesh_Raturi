@@ -2,7 +2,7 @@
 
 <img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/650797main_jsc2012e051505_alt_full.jpg" width="600">
 
-<h1> Hey there! I'm Ankit.</h1>
+<h1> Hey there! I'm Mahesh Raturi.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
@@ -36,9 +36,3 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ankit-yadav-757546253/"><img alt="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"></a>&nbsp
-<a href="https://twitter.com/ankity26"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"></a>&nbsp
-<a href="mailto:ankity2608@gmail.com"><img alt="Email" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg"></a>
-</p>
